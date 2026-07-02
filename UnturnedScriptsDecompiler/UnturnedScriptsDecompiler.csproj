@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ICSharpCode.Decompiler" Version="10.0.0.8330" />
+    <PackageReference Include="ICSharpCode.Decompiler" Version="10.1.0.8386" />
+    <PackageReference Include="ValveKeyValue" Version="0.70.0.499" />
   </ItemGroup>
 
 </Project>
